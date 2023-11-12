@@ -2,6 +2,8 @@
 - 👨‍💻 Transitioned from mechanical engineer to programmer
 - 👀 Self-taught in web development
 - 🌱 Working on my side projects to enhance my knowlegde about this field
+- =======================================================================
+- My first deployed side project: https://www.my-flashcard.com/
 
 <!---
 DinhHoang47/DinhHoang47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
