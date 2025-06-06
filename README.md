@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @DinhHoang47
-- 👨‍💻 Transitioned from mechanical engineer to programmer
-- 👀 Self-taught in web development
-- 🌱 Working on my side projects to enhance my knowlegde about this field
-- =======================================================================
-- My first deployed side project: https://www.nihongo.click/
-
-<!---
-DinhHoang47/DinhHoang47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @DinhHoang47  
+- 👨‍💻 Transitioned from mechanical engineer to programmer  
+- 👀 Self-taught in web development  
+- 🌱 Working on my side projects to enhance my knowledge about this field  
+- =======================================================================  
+- 📚 VocaPilot - Learn vocabulary smarter with quizzes, AI-powered lists & spaced repetition: https://www.vocapilot.com/  
+- 🖼️ AutoCanvas - Bulk-generate social media images from templates: https://www.autocanva.com/  
+- 📝 OnJLPT - Practice platform for real past JLPT exams (N1–N5): https://www.onjlpt.com/  
